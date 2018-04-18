@@ -1,7 +1,7 @@
 # docker-pilas-engine
 Imagen docker con pilas-engine, sobre una imagen de ubuntu 14.04
 
-Imagen construida según las instrucciones de [este repositorio] (hugoruscitti/pilas).
+Imagen construida según las instrucciones de este repositorio https://github.com/hugoruscitti/pilas/wiki/instalacion.
 
 
 Para crear una instancia, ejecutar:
